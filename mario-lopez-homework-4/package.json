@@ -1,0 +1,11 @@
+{
+  "name": "mario-lopez-homework-4",
+  "version": "1.0.0",
+  "description": "Task 4th - Calculator Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Lopez",
+  "license": "ISC"
+}
