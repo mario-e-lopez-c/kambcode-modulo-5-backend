@@ -1,0 +1,12 @@
+{
+  "name": "mario-lopez-homework-6",
+  "version": "1.0.0",
+  "description": "Create first API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Lopez",
+  "license": "ISC"
+}
