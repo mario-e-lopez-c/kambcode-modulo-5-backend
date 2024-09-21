@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node init.js",
-    "watch": "nodemon async.js",
+    "watch": "nodemon async.js"
   },
   "author": "mario lopez",
   "license": "ISC",

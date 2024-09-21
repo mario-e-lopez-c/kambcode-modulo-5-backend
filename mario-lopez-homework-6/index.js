@@ -4,7 +4,6 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import fs from 'fs';
-// import express from 'express';
 
 //read the products data from products.json
 const __filename = fileURLToPath(import.meta.url);
